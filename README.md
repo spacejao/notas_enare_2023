@@ -28,5 +28,5 @@ O notebook principal pode ser executado com Python e requer os pdfs com as notas
 - pdfplumber
 
 
-# CSVs
-O CSV de cada uma das area de acesso direto do enare estão na pasta resultados.
+# Resultados
+Os resultados estão na pasta Resultados.zip e podem ser baixados. Os arquivos estão em xlms
